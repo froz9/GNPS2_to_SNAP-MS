@@ -1,0 +1,12 @@
+name: GNPS2_to_SNAP-MS
+title: GNPS2_to_SNAP-MS
+username: 5bptzm-alan-hernandez
+account: 5bptzm-alan-hernandez
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16784175
+bundleId: 11641367
+url: https://5bptzm-alan-hernandez.shinyapps.io/GNPS2_to_SNAP-MS/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
