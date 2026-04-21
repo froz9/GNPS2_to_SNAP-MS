@@ -1,4 +1,4 @@
-GNPS2 to SNAP-MS Bridge
+# GNPS2 to SNAP-MS Bridge
 Welcome to the GNPS2 to SNAP-MS Bridge repository! This tool acts as a bridge between GNPS2 output and SNAP-MS. It modifies a GNPS2 .graphml file by mapping its attributes to the GNPS1 format required by SNAP-MS.
 
 🌐 Live Application
